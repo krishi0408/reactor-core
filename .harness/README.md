@@ -1,4 +1,4 @@
-Build & Test Proxygen on Harness CI
+Build & Test reactor-core on Harness CI
 =======================================
 This is a fork of [reactor/reactor-core](https://github.com/reactor/reactor-core). This project is used for testing Harness CI's capabilities by the CME team at Harness. This file contains instructions on how to run reactor/reactor-core on Harness CI.
 
