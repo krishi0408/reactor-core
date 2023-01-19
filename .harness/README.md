@@ -24,7 +24,7 @@ This is a fork of [reactor/reactor-core](https://github.com/reactor/reactor-core
    8. Provide your `YAML Path`as `.harness/{PIPELINE_NAME}.yml`.The root folder `.harness` is required. 
    9. Select `Start`.
    
- * Go to the newly created pipeline and hit the `Triggers` tab. If everything went well, you should see two triggers auto-created. A `Pull Request` trigger and a `Push` trigger. For this exercise, we only need `Pull Request` trigger to be enabled. So, please disable or delete the `Push` trigger.
+ * Go to the newly created pipeline and hit the `Triggers` tab. If everything went well, you should see two triggers auto-created. A `Pull Request` trigger and a `Push` trigger. For this exercise, we only need the `Pull Request` trigger to be enabled.
 
 3. If you are an existing Harness CI user, create a new pipeline to use the cloud option for infrastructure and set up the PR trigger.
 
