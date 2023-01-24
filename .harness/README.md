@@ -16,7 +16,7 @@ This is a fork of [reactor/reactor-core](https://github.com/reactor/reactor-core
  
    1. Click on `Create Pipeline`. 
    2. Give a `Name` to your pipeline.
-   3. You can provide `Description` and `Tags`.(Optional)
+   3. Optionally, you can provide a `Description` and `Tags`
    4. Select `Remote` option on `How do you want to setup your pipeline`.
    5. Provide your `Git Connector`.
     
