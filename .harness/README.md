@@ -89,7 +89,7 @@ This is a fork of [reactor/reactor-core](https://github.com/reactor/reactor-core
 
 6. Merge the PR after the pipeline execution is successful.
 
-7. Enable GitHub Actions: The repository forked in Step 2 already has a GitHub Actions workflow file added. You can choose to enable this workflow from the Actions tab on GitHub.
+7. Enable GitHub Actions: The repository forked in _**Step 2**_ already has a GitHub Actions workflow file added. You can choose to enable this workflow from the Actions tab on GitHub.
 
 8. Create any other Pull Request with a few source or test file changes. You can consider cherry-picking any of the commits from the main repository.
 
