@@ -83,7 +83,7 @@ This is a fork of [reactor/reactor-core](https://github.com/reactor/reactor-core
 
 > _NOTE: Make sure you modify the connectors with the connectors you create._
 
-4.  Go to the newly created pipeline and hit the `Triggers` tab. If everything went well, you should see two triggers auto-created. A `Pull Request` trigger and a `Push` trigger. For this exercise, we only need `Pull Request` trigger to be enabled. So, please disable or delete the `Push` trigger.
+4.  Go to the newly created pipeline and hit the `Triggers` tab. If everything went well, you should see two triggers auto-created. A `Pull Request` trigger and a `Push` trigger. For this exercise, we only need `Pull Request` trigger to be enabled.
 
 5. Create a Pull Request in a new branch by updating the project. (e.g. add a comment or new line). This should invoke a build-in Harness CI
 
