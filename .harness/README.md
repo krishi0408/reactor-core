@@ -41,6 +41,7 @@ This is a fork of [reactor/reactor-core](https://github.com/reactor/reactor-core
    8. Provide your `YAML Path` as `.harness/{PIPELINE_NAME}.yml`.The root folder `.harness` is required. 
    > _NOTE: Here `.harness/{PIPELINE_NAME}.yml`, {PIPELINE_NAME} is name of your `Pipeline`._
    9. Select `Start`.
+
 3. Add the pipeline.yaml below `tags` in the YAML editor:
 
 ```yaml
